@@ -28,7 +28,7 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 2: The Covenant of the Presence
+## Session 2: Sinai's Significance
 
 <!--
 Background image is [Jean-Léon Gérôme's Moses on Mount Sinai](https://commons.wikimedia.org/wiki/File:G%C3%A9r%C3%B4me,_Jean-L%C3%A9on_-_Moses_on_Mount_Sinai_Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-1895-1900.jpg).
